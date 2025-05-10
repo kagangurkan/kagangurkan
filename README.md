@@ -22,7 +22,7 @@
   <a href="https://discord.com/users/1263158359801073769" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" />
   </a>
-  <a href="https://www.instagram.com/isimyaz" target="_blank">
+  <a href="https://www.instagram.com/kagan.altayy" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
   </a>
 </p>
