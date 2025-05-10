@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://cdn.discordapp.com/avatars/1263158359801073769/c2a8867accf5d57562566eaf43d6cef2.webp?size=1024" alt="MasterHead" />
 </p>
-<h1 align="center">Hi 👋, I'm Kagan gurkanh1>
+<h1 align="center">Hi 👋, I'm Kagan gurkanh>
 <h3 align="center">Code. Create. Contribute ✨</h3>
 
 <p align="center"> 
